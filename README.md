@@ -8,11 +8,11 @@ Time spent: **5** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-The following **optional** features are implemented:
+The following features are implemented:
 * [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
@@ -27,17 +27,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/jsEUTGA4bi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [recordit](https://recordit.co/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Building this small app was a great experience for me.
+I have a better undestanding of Swift.
 
 ## License
 
-    Copyright [yyyy] [Yasiris Ortiz]
+    Copyright [Yasiris Ortiz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
